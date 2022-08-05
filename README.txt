@@ -1,3 +1,5 @@
+IMPORTANT NOTE: Only tested on Windows 10 (may not work on literally any other OS)
+
 'Batch' stands for '.bat'
 
 !! PLEASE INSPECT THE BATCH SCRIPTS BEFORE EXECUTING THEM, NEVER RUN SOMEONE ELSE'S CODE WITHOUT FIRST VERIFYING IT !!
