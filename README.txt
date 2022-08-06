@@ -2,14 +2,16 @@ IMPORTANT NOTE: Only tested on Windows 10 (may not work on literally any other O
 
 'Batch' stands for '.bat'
 
-!! PLEASE INSPECT THE BATCH SCRIPTS BEFORE EXECUTING THEM, NEVER RUN SOMEONE ELSE'S CODE WITHOUT FIRST VERIFYING IT !!
+!! PLEASE INSPECT THE BATCH SCRIPT BEFORE EXECUTING IT, NEVER RUN SOMEONE ELSE'S CODE WITHOUT FIRST VERIFYING IT !!
 To inspect a batch script, right click it and press "Edit".
+(I don't recommend saving any changes unless you think the line/script is malware)
 
 -- Originates from me (y'know, that guy!) --
 The purpose of this script is to replace Roblox's current death sound with the related sound file called "ouch(.ogg)"
 Default replacement is the "oof" sound, if you want to change it; then remove the sound and replace it with a file of the same name and format (.ogg)
+
 Note: Roblox's death sound goes to default every time Roblox updates, you'll need to run the script every time that happens
-(this may seem inconvenient -- which it is -- but it's better than manually copy and pasting the file)
+(this may seem inconvenient -- which it is -- but it's better than manually copy and pasting the file!)
 
 !! The darn thing won't work if any file-names are changed, so make sure all names are the same way they used to be !!
 
