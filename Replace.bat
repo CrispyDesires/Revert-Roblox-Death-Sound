@@ -33,3 +33,5 @@ Copy %newsound% %sound%
 del %shortcutpath%
 :: REPLACES THE OLD SOUND WITH THE NEW SOUND, WOO!!!
 :: also deletes the .txt used to get the shortcut path
+
+:: ... shoutouts to that other guy for opening my eyes to remove the strings attached ...
