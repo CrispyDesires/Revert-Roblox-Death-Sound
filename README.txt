@@ -1,3 +1,5 @@
+ARCHIVAL NOTE: I mean it's just a bit rubbish innit? 
+
 IMPORTANT NOTE: Only tested on Windows 10 (may not work on literally any other OS)
 
 'Batch' stands for '.bat'
